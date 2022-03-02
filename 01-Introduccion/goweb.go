@@ -54,3 +54,7 @@ func main() {
 //pag para ver los status
 //https://developer.mozilla.org/es/docs/Web/HTTP/Status
 //https://pkg.go.dev/net/http#pkg-constants
+
+//Programa que permite el servidor se compile nuevamente cuadno hay cambios
+//comando:fresh
+//https://github.com/gravityblast/fresh
